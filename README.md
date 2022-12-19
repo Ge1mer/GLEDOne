@@ -14,7 +14,8 @@
 
 ## Схема подключения платы:
 ### Платы бывают с винтовыми разъемами, или просто контактными площадками под пайку. 
-![image](https://github.com/Ge1mer/GLED/blob/85e838878954695fee5867c8564cc7ca5f9188ce/Main.jpg)
+![image](Noconnector.png)
+![image](Connector.png)
 
 Управляющий вывод для ленты GPIO14.
 
